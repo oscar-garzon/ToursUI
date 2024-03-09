@@ -8,7 +8,7 @@ export  function fetchTours() {
             "alternativeDescription": "altDes",
             "name": "chichen-itza tour",
             "price": 69,
-            "imgUrl": "../images/chichen-itza-tour.jpg",
+            "imgUrl": "src/assets/images/chichen-itza-tour.jpg",
             "categories": [
                 "TIERRA",
                 "AVENTURA"
@@ -20,7 +20,7 @@ export  function fetchTours() {
             "alternativeDescription": "altDes",
             "name": "isla mujeres tour",
             "price": 69,
-            "imgUrl": "../images/isla-mujeres.jpg",
+            "imgUrl": "src/assets/images/isla-mujeres.jpg",
             "categories": [
                 "MAR"
             ]
@@ -31,7 +31,7 @@ export  function fetchTours() {
             "alternativeDescription": "altDes",
             "name": "tiburon ballena tour",
             "price": 109,
-            "imgUrl": "../images/tiburon-ballena.jpg",
+            "imgUrl": "src/assets/images/tiburon-ballena.jpg",
             "categories": [
                 "MAR",
                 "AVENTURA"
@@ -43,7 +43,7 @@ export  function fetchTours() {
             "alternativeDescription": "altDes",
             "name": "chichen-itza tour",
             "price": 69,
-            "imgUrl": "../images/chichen-itza-tour.jpg",
+            "imgUrl": "src/assets/images/chichen-itza-tour.jpg",
             "categories": [
                 "TIERRA",
                 "AVENTURA"
@@ -55,7 +55,7 @@ export  function fetchTours() {
             "alternativeDescription": "altDes",
             "name": "isla mujeres tour",
             "price": 69,
-            "imgUrl": "../images/isla-mujeres.jpg",
+            "imgUrl": "src/assets/images/isla-mujeres.jpg",
             "categories": [
                 "MAR"
             ]
@@ -66,7 +66,7 @@ export  function fetchTours() {
             "alternativeDescription": "altDes",
             "name": "tiburon ballena tour",
             "price": 109,
-            "imgUrl": "../images/tiburon-ballena.jpg",
+            "imgUrl": "src/assets/images/tiburon-ballena.jpg",
             "categories": [
                 "MAR",
                 "AVENTURA"
@@ -84,7 +84,7 @@ export function fetchToursBySea() {
             "alternativeDescription": "altDes",
             "name": "isla mujeres tour",
             "price": 69,
-            "imgUrl": "../images/isla-mujeres.jpg",
+            "imgUrl": "src/assets/images/isla-mujeres.jpg",
             "categories": [
                 "MAR"
             ]
@@ -95,7 +95,7 @@ export function fetchToursBySea() {
             "alternativeDescription": "altDes",
             "name": "tiburon ballena tour",
             "price": 109,
-            "imgUrl": "../images/tiburon-ballena.jpg",
+            "imgUrl": "src/assets/images/tiburon-ballena.jpg",
             "categories": [
                 "MAR",
                 "AVENTURA"
@@ -107,7 +107,7 @@ export function fetchToursBySea() {
             "alternativeDescription": "altDes",
             "name": "isla mujeres tour",
             "price": 69,
-            "imgUrl": "../images/isla-mujeres.jpg",
+            "imgUrl": "src/assets/images/isla-mujeres.jpg",
             "categories": [
                 "MAR"
             ]
@@ -118,7 +118,7 @@ export function fetchToursBySea() {
             "alternativeDescription": "altDes",
             "name": "tiburon ballena tour",
             "price": 109,
-            "imgUrl": "../images/tiburon-ballena.jpg",
+            "imgUrl": "src/assets/images/tiburon-ballena.jpg",
             "categories": [
                 "MAR",
                 "AVENTURA"
@@ -135,7 +135,7 @@ export function fetchToursByLand() {
             "alternativeDescription": "altDes",
             "name": "chichen-itza tour",
             "price": 69,
-            "imgUrl": "../images/chichen-itza-tour.jpg",
+            "imgUrl": "src/assets/images/chichen-itza-tour.jpg",
             "categories": [
                 "TIERRA",
                 "AVENTURA"
@@ -147,7 +147,7 @@ export function fetchToursByLand() {
             "alternativeDescription": "altDes",
             "name": "chichen-itza tour",
             "price": 69,
-            "imgUrl": "../images/chichen-itza-tour.jpg",
+            "imgUrl": "src/assets/images/chichen-itza-tour.jpg",
             "categories": [
                 "TIERRA",
                 "AVENTURA"
